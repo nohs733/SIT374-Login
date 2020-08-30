@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "834190201411",
+    "firebase_url": "https://sit374-fastfoodswitch.firebaseio.com",
+    "project_id": "sit374-fastfoodswitch",
+    "storage_bucket": "sit374-fastfoodswitch.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:834190201411:android:1e6a508216e93f3f5dbaf6",
+        "android_client_info": {
+          "package_name": "com.example.fastfoodswitch"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "834190201411-m1s36bhs3el54mpbachmoc1uj2ij2mhm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fastfoodswitch",
+            "certificate_hash": "8c234644948ce76833aa651ba6fb63786a3b0b6c"
+          }
+        },
+        {
+          "client_id": "834190201411-bpq87hnnm5hafgog3caob18mm5qeau06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF95onQ0zIlDk5_0p5LIGB4y_BAID-2YE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "834190201411-bpq87hnnm5hafgog3caob18mm5qeau06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
